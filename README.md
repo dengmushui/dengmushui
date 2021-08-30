@@ -1,4 +1,6 @@
-hello world
+ # hello world
 
-l am dengmushui
-l like ...
+ l am dengmushui 
+ it is my first github repository
+ 
+ this is the way
