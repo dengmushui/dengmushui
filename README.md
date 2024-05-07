@@ -2,7 +2,7 @@
 <!-- 👋
 <div align="center">
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);你好！我是陈子扬！研究计算机视觉方向！&center=true&size=27" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);你好！我是Dengmushui！&center=true&size=27" />
     </div>
 
     
@@ -191,23 +191,4 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 
 </div>
 
-<!--
 
-
-**ZYangChen/ZYangChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
--->
